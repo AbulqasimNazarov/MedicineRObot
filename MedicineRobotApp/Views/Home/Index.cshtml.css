@@ -1,0 +1,13 @@
+@font-face 
+{
+    font-family: 'Orbitron-Bold';
+    font-weight: 500px;
+    font-style: normal;
+    src: url('Assets/Fonts/Orbitron-Bold.ttf')  format('truetype')
+}
+.text-center{
+    display: flex;
+    font-family: 'Orbitron-Bold';
+    font-size: 22px;
+    color: rgb(25, 57, 57);
+}
